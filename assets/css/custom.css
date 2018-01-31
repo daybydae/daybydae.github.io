@@ -17,8 +17,36 @@
 
 #live {
   left:0;
+  font-size: 20px;
+  border-bottom: none;
 }
 
 #github {
   margin-left: 20px;
+  font-size: 20px;
+  border-bottom: none;
+}
+
+#contactme {
+  display: flex;
+}
+
+#address {
+  display: block;
+}
+
+.contactme {
+  display: block;
+  list-style: none;
+  text-align: center;
+  margin: auto;
+  padding-left: 0;
+}
+
+.contactme li {
+  padding-left: 0;
+}
+.contactme li a {
+  font-size: 2.25em;
+  margin: 20px;
 }
