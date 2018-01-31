@@ -2435,6 +2435,8 @@
 			.features article .image img {
 				display: block;
 				width: 100%;
+				transition-duration: 0.3s;
+
 			}
 
 		.features article .inner {
