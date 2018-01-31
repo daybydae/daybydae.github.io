@@ -4,3 +4,13 @@
   color: #4acaa8;
   margin-right: 20px;
 }
+
+.subtitle {
+  text-align: center;
+}
+
+.features article .image img:hover {
+  box-shadow: 0 10px 10px -10px rgba(0, 0, 0, 0.5);
+  transform: scale(1.1);
+  transition-duration: 0.3s;
+}
