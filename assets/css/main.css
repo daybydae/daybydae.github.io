@@ -1575,7 +1575,7 @@
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #4acaa8 !important;
+			color: #888!important;
 		}
 
 	strong, b {
@@ -2122,7 +2122,7 @@
 				}
 
 				ul.icons li .icon:before {
-					font-size: 1.75em;
+					font-size: 2.00em;
 				}
 
 		ul.actions {
@@ -2436,6 +2436,7 @@
 				display: block;
 				width: 100%;
 				transition-duration: 0.3s;
+				border: 3px solid #4acaa8;
 
 			}
 
